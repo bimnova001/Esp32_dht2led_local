@@ -1,12 +1,13 @@
+<p align="center">
+  <img src="logo.svg" width="140" alt="ESP32 DHT + 2xLED logo">
+</p>
+
 # Esp32_dht2led_local
 
 ![ESP32](https://img.shields.io/badge/ESP32-WROOM--32-000?logo=espressif&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-IDE-00979D?logo=arduino&logoColor=white)
 ![Sensor](https://img.shields.io/badge/Sensor-DHT11-ef4444)
 ![Offline](https://img.shields.io/badge/Offline-AP%20Mode-22c55e)
-![AI](https://img.shields.io/badge/UI%2FCode-Assisted%20by%20AI-8b5cf6)
-
-> **Disclosure:** โค้ดและ README นี้ร่างโดย **AI (Muse Spark)** ร่วมกับเจ้าของ repo — โปรดตรวจสอบก่อนใช้งานจริง
 
 ESP32 ปล่อย Wi-Fi AP ของตัวเอง แล้ว serve หน้าเว็บ offline 100% สำหรับดูค่าอุณหภูมิ/ความชื้น (เกจหน้าปัด SVG) และเปิด–ปิด LED 2 ดวง จากมือถือหรือคอม ไม่ต้องมีเน็ต
 
@@ -30,4 +31,4 @@ ESP32 ปล่อย Wi-Fi AP ของตัวเอง แล้ว serve �
 
 ## License
 
-MIT — Credits: [@bimnova001](https://github.com/bimnova001), AI-assisted (Muse Spark)
+MIT — by [@bimnova001](https://github.com/bimnova001)
